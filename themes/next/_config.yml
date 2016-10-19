@@ -176,11 +176,13 @@ sidebar:
 
 
 # Blogrolls
-#links_title: Links
-#links_layout: block
+links_title: Links
+links_layout: block
 #links_layout: inline
-#links:
-  #Title: http://example.com/
+links:
+  饮冰先生: https://myanbin.github.io/
+  Mac小兔: https://perixiaowan.github.io/
+
 
 
 # ---------------------------------------------------------------
