@@ -18,7 +18,7 @@ mysqld --initialize
 mysqld -install/remove
 net start mysql
 mysql -u root -p
-ALTER USER 'root'@'localhost' IDENTIFIED BY 'new_password'
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'new_password';
 ```
 
 初始化成功后在datadir目录下生成的文件中xxx.err里有root账户的临时密码：
