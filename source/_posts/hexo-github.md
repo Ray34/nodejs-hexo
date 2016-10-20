@@ -8,7 +8,7 @@ tags:
 
 [HEXO搭建个人博客](http://baixin.io/2015/08/HEXO%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/).
 
-###常用命令
+### 常用命令
 
 ```bash
 hexo clean
@@ -16,7 +16,7 @@ hexo generate
 hexo deploy
 ```
 
-###遇到问题总结 
+### 遇到问题总结 
 
 1、在修改_config.yml文件时，注意type: git冒号后面一定要有空格，其他几个也一样。
 2、使用next主题时，修改headband的背景颜色：
