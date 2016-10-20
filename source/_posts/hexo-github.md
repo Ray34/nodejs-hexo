@@ -3,6 +3,8 @@ title: Hexo+Github制作我的博客
 tags: 
     - hexo
     - next
+categories: 
+    - 技术
 ---
 搭建基于Hexo+Github的博客已经有段时间了，第一篇文章一直没写，具体的配置步骤忘的差不多，下面是之前参考的一个博客：
 
